@@ -2,7 +2,7 @@
 </br> 
 
 ## Below is the link for the solutions for the course assignments. 
- <p>Please take it with salt of grain,as it's my own solution and it's not perfect.</p>  
+ <p> **Please take it with salt of grain,as it's my own solution and it's not perfect.**</p>  
 
 [Cs193p Solutions][solutions]
 </br>
