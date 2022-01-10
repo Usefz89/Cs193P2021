@@ -1,4 +1,4 @@
-# Welcome tom CS193p Journey 
+# Welcome to my CS193p Journey 
 </br> 
 
 ## Below is the link for the solutions for the course assignments. 
